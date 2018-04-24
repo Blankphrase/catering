@@ -11,7 +11,7 @@ This is a webpage about JOE'S catering business, it includes displays for all th
 ## Known Bugs
 There are no no Known bugs at the date of publication, feel free to contact me in case you encounter any bug
 ## Technologies Used
-All the features were created using html and bootstrap  only, despite how really cool the website seems
+All the features were created using html and bootstrap only, despite how really cool the website seems
 ## Support and contact details
 Feel free to contact me if you interested to make any contributions to the better improvement of the page at email Ckasera6486@gmail.com  
 ### License
